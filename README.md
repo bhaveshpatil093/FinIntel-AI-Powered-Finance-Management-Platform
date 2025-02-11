@@ -40,7 +40,7 @@ FinIntel is a comprehensive financial management platform that combines personal
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vishan01/FinIntel.git
+git clone https://github.com/bhaveshpatil093/FinIntel-AI-Powered-Finance-Management-Platform.git
 cd FinIntel
 ```
 
